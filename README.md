@@ -1,10 +1,16 @@
-# 📋 Todo App - Flutter
+# Todo App Flutter
 
-Aplicación de lista de tareas hecha en Flutter. Permite agregar, editar, eliminar y marcar tareas como completadas. Las tareas se guardan localmente usando Hive.
+Una aplicación de lista de tareas construida con Flutter + Provider + Hive.
 
-## 🚀 Cómo correr el proyecto
+## 🚀 Requisitos
 
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/todo_app_flutter.git
-   cd todo_app_flutter
+- Flutter instalado (`flutter doctor` sin errores)
+- Un emulador o dispositivo físico
+
+## 🔧 Instalación
+
+```bash
+git clone https://github.com/tu-usuario/tu-repo.git
+cd tu-repo
+flutter pub get
+flutter run
